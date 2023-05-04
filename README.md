@@ -4,6 +4,6 @@ Hi!
 
 This is my weather app!!!
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/[n1kitka]/[WeatherAppIOS]/blob/[main]/imageApp.jpg?raw=true)
 
-https://github.com/n1kitka/WeatherAppIOS/blob/main/imageApp.png
+
